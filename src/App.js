@@ -24,7 +24,12 @@ function App() {
 console.log("process.env.NODE_ENV", process.env.NODE_ENV);
 console.log("process.env.REACT_APP_EGOV_CONTEXT_URL", process.env.REACT_APP_EGOV_CONTEXT_URL);
 
+<<<<<<< HEAD
 // contribution에 추가로 반영한 내용 1
 // contribution에 추가로 반영한 내용 2
 
+=======
+// main에 추가로 반영한 내용 1
+// main에 추가로 반영한 내용 2
+>>>>>>> 7e871f1 (main에 추가로 반영한 내용 2)
 export default App;
