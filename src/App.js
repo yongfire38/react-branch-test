@@ -11,6 +11,7 @@ function App() {
 
   return (
     // 테스트 주석
+    // main branch에서 수정
     <div className="wrap">
       <React.StrictMode>
         <RootRoutes />
