@@ -24,7 +24,7 @@ console.log("process.env.REACT_APP_EGOV_CONTEXT_URL", process.env.REACT_APP_EGOV
 
 
 // 디폴트 브랜치는 수정함
-// 여기서 주석 더 늘리지 말 것
+// 여기서 주석 더 늘리지 말 것 - 수정은 된다?
 
 // 추가 수정
 
