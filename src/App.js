@@ -22,7 +22,7 @@ function App() {
 console.log("process.env.NODE_ENV", process.env.NODE_ENV);
 console.log("process.env.REACT_APP_EGOV_CONTEXT_URL", process.env.REACT_APP_EGOV_CONTEXT_URL);
 
-// 내 브랜치 커밋 1
-// 내 브랜치 커밋 2
-// 내 브랜치 커밋 3
+// 디폴트 브랜치는 수정함
+// 여기서 주석 더 늘리지 말 것
+
 export default App
