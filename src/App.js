@@ -22,6 +22,5 @@ function App() {
 console.log("process.env.NODE_ENV", process.env.NODE_ENV);
 console.log("process.env.REACT_APP_EGOV_CONTEXT_URL", process.env.REACT_APP_EGOV_CONTEXT_URL);
 
-// rebase 연습용 주석
 // contribution 연습용 주석
 export default App;
