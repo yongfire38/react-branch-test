@@ -27,5 +27,6 @@ console.log("process.env.REACT_APP_EGOV_CONTEXT_URL", process.env.REACT_APP_EGOV
 // 여기서 주석 더 늘리지 말 것 - 수정은 된다?
 
 // 추가 수정
+// 리베이스 연습 주석을 맨 아래로 붙임
 
 export default App
