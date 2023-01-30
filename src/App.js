@@ -24,4 +24,4 @@ console.log("process.env.REACT_APP_EGOV_CONTEXT_URL", process.env.REACT_APP_EGOV
 
 // contribution 연습용 주석, rebase 완료
 // contribution 추가 수정 3
-export default App;
+export default App
