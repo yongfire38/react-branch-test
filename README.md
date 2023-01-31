@@ -1,4 +1,4 @@
 # react-branch-test
 
 브랜치 및 태그 수정 테스트용
-분기용 contribution branch로 PR이 가나 테스트
+전체 내용을 개인 프로젝트로 변경
