@@ -1,12 +1,18 @@
-import React from 'react';
+import { useEffect } from "react";
+import DiaryEditor from "../components/DiaryEditor";
 
 const New = () => {
+
+    useEffect(()=>{
+        const titleElement = document.getElementsByTagName('title')[0];
+        titleElement.innerHTML = `감정 일기장 - 새 일기`;
+    },[]);
+    
     return (
-        <div className="NewPage">
-            <h4>여기는 New</h4>
+        <div>
+            <DiaryEditor />
         </div>
     );
-
 }
 
 export default New;
