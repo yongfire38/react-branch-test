@@ -8,9 +8,6 @@ import New from './pages/New';
 import Edit from './pages/Edit';
 import Diary from './pages/Diary';
 
-//fix: m1
-//fix: m2
-
 const reducer = (state, action) => {
   let newState = [];
   switch(action.type) {
@@ -115,8 +112,5 @@ function App() {
     </DiaryStateContext.Provider>
   );
 }
-
-// fix: f1
-// fix: f2
 
 export default App;
