@@ -9,7 +9,7 @@ import Edit from './pages/Edit';
 import Diary from './pages/Diary';
 
 //fix: m1, f1, f5
-//fix: m2, f2
+//fix: m2, f2, f6
 
 const reducer = (state, action) => {
   let newState = [];
