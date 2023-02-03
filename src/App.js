@@ -8,7 +8,7 @@ import New from './pages/New';
 import Edit from './pages/Edit';
 import Diary from './pages/Diary';
 
-//fix: m1
+//fix: m1, f1
 //fix: m2
 
 const reducer = (state, action) => {
