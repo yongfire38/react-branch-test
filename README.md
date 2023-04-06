@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #### 2. JEE 추가 Plug-ins 프로그램 설치
 |소프트웨어|버전|자동설치/업데이트주소|필수여부|
 |:---------|:----|:-------------------|:-------|
-| Spring Tools | 4.16.1  | https://download.springsource.com/release/TOOLS/sts4/update/e4.23/ \\ → Spring Tools → Spring Boot Language Server Feature , Spring IDE Boot Microservices Dash , Spring Tool Suite 4 main Feature , Spring XML Namespace Support \\ → Spring Tools - Developer Resources → Spring Boot Language Server Feature Developer Resources , Spring IDE Boot Microservices Dash Developer Resources , Spring Tool Suite 4 main Feature Developer Resources , Spring XML Namespace Support Developer Resources 설치 |  필수  |
+| Spring Tools | 4.16.1  | `https://download.springsource.com/release/TOOLS/sts4/update/e4.23/` \\ → Spring Tools → Spring Boot Language Server Feature , Spring IDE Boot Microservices Dash , Spring Tool Suite 4 main Feature , Spring XML Namespace Support \\ → Spring Tools - Developer Resources → Spring Boot Language Server Feature Developer Resources , Spring IDE Boot Microservices Dash Developer Resources , Spring Tool Suite 4 main Feature Developer Resources , Spring XML Namespace Support Developer Resources 설치 |  필수  |
 | UML2 Extension | 5.5.2 | https://download.eclipse.org/releases/2022-03/ → Modeling → UML2 Extender SDK |  필수  |
 | Subversive SVN Team Provider | 4.0.5 | http://download.eclipse.org/technology/subversive/4.0/update-site/ → Subversive SVN Team Provider Plugin → Subversive SVN Team Provider 설치 |  필수  |
 | Subversive SVN Connectors | 6.0.4 | https://community.polarion.com/projects/subversive/download/eclipse/6.0/update-site/ → Subversive SVN Connectors → Subversive SVN Connectors 설치,  SVNKit 1.8.14 Implementation 설치 |  필수  |
